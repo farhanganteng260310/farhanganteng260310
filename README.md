@@ -45,7 +45,5 @@ I'm a **Full-Stack & Mobile Developer Student** at SMK Sahabat Ilmu, passionate 
 
 ![https://wordpress.com/themusyaffa](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-##### My  Github Stats
-![farhanganteng260310 GitHub stats](https://github-readme-stats.vercel.app/api?username=farhanganteng260310&show_icons=true&theme=radical)
 
 I enjoy learning new technologies, building projects, and turning ideas into real applications.
