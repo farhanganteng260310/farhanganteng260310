@@ -1,6 +1,6 @@
 ## Hi, I'm Farhan 👋
 
-![farhanganteng260310](img/github01.jpeg)
+![farhanganteng260310](img/github01.jpg)
 
 <!--
 **farhanganteng260310/farhanganteng260310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
